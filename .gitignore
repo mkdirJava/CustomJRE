@@ -20,3 +20,6 @@ customjre
 output_jars
 .idea
 *.iml
+
+com.mkdirjava.entry
+com.mkdirjava.entry.build_artifacts.txt
